@@ -8,3 +8,4 @@ def pobierz_dane(liczba_cyfr):
 print("ile chcesz liczb")
 cyfry=int(input())
 print(pobierz_dane(cyfry))
+print("dsad")
